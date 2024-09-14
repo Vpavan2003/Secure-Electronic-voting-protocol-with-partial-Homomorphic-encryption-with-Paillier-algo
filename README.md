@@ -1,0 +1,1 @@
+# Secure-Electronic-voting-protocol-with-partial-Homomorphic-encryption-with-Paillier-algo
